@@ -1,0 +1,71 @@
+body
+{font-family: verdana;
+background-color: black;
+background-image:url('pictures/darkslide1.jpg');
+margin-left: 12px;
+margin-right: 12px;
+}
+
+#header {
+    overflow: hidden;
+    padding: 12px;
+    text-align: center;
+}
+
+#logo img{
+    width: 15%;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+li {
+		    float:center;
+	    display:inline-block;
+	background-color:#2F4F4F; 
+	color:white;
+	text-decoration: none;
+	 padding: 20px; 
+}
+
+a 	{ text-decoration: none;
+padding: 20px;
+    
+}
+
+#contact {text-align: center;}
+
+#photos img {width:30%}
+
+#table img {width:30%}
+
+h1 {
+color: white;
+text-align: center;
+}
+
+h2 {
+color: white;
+text-align: center;
+}
+
+h3 {
+color: white;   
+text-align: center;
+}
+
+p {color:white;
+text-align: left;}
+
+p2{color: white;
+text-align: center;}
+
+    .center {text-align: center;}
+   
+    
+a:link {color: white;}
+a:visited {color: white;}
+a:hover {color: green; background-color: black;}
+a:active {color: white; background-color: black;}
